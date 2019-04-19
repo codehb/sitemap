@@ -5,9 +5,12 @@ https://www.beedham.org/about
 https://www.beedham.org/services
 https://www.beedham.org/services/support
 https://www.beedham.org/services/support/sites-support
+https://www.beedham.org/services/support/mail-support
+https://www.beedham.org/services/support/cloud-support
 https://www.beedham.org/services/mail
 https://www.beedham.org/services/mail/signup
 https://www.beedham.org/services/mail/login
+https://www.beedham.org/services/beedham-cloud
 https://www.beedham.org/news
 https://www.beedham.org/ww
 https://www.beedham.org/coding
@@ -24,4 +27,3 @@ https://www.beedham.org/harry/homework/hums/history
 https://www.beedham.org/harry/homework/english
 https://www.beedham.org/harry/homework/maths
 https://www.beedham.org/harry/homework/science
-https://www.beedham.org/services/support/mail-support
