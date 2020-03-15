@@ -1,6 +1,6 @@
 https://www.beedham.org/
 https://www.beedham.org/home
-https://www.beedham.org/ilpa
+https://www.beedham.org/vids
 https://www.beedham.org/about
 https://www.beedham.org/services
 https://www.beedham.org/services/support
@@ -15,6 +15,7 @@ https://www.beedham.org/news
 https://www.beedham.org/ww
 https://www.beedham.org/coding
 https://www.beedham.org/sites
+https://www.beedham.org/sites/chris
 https://www.beedham.org/sites/trump
 https://www.beedham.org/sites/trump/trump
 https://www.beedham.org/gallery
